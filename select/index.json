@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Spyder",
+  "base_artist": "TakaseToya",
+  "createdAt": "2025-12-15T08:41:12.461409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When Love Takes Over (feat. Kelly Rowland) / Trouble (feat. MC Spyder) [Mixed]",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/01_When_Love_Takes_Over_(feat._Kelly_Rowland)___Trouble_(feat._MC_Spyder)_[Mixed]_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spyder",
+      "artist": "Imperial Drag",
+      "has_synced": false,
+      "path": "select/02_Spyder_Imperial_Drag.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ni Nachleh (feat. MC Spyder)",
+      "artist": "Imran Khan feat. MC Spyder feat. Imran Khan & Mc Spyder",
+      "has_synced": true,
+      "path": "select/03_Ni_Nachleh_(feat._MC_Spyder)_Imran_Khan_feat._MC_Spyder_feat._Imran_Khan_&_Mc_Spyder.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ni Nachleh (feat. Spyder)",
+      "artist": "Imran Khan",
+      "has_synced": true,
+      "path": "select/04_Ni_Nachleh_(feat._Spyder)_Imran_Khan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ni Nachleh (feat. MC Spyder) [Eren E. Electro Remix]",
+      "artist": "Imran Khan feat. MC Spyder feat. Imran Khan & Mc Spyder",
+      "has_synced": false,
+      "path": "select/05_Ni_Nachleh_(feat._MC_Spyder)_[Eren_E._Electro_Remix]_Imran_Khan_feat._MC_Spyder_feat._Imran_Khan_&_Mc_Spyder.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spyder",
+      "artist": "Jeezy",
+      "has_synced": true,
+      "path": "select/06_Spyder_Jeezy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spyder le Cat",
+      "artist": "William Sheller",
+      "has_synced": true,
+      "path": "select/07_Spyder_le_Cat_William_Sheller.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Old Porsche Spyder",
+      "artist": "Beanie Mike",
+      "has_synced": false,
+      "path": "select/08_Old_Porsche_Spyder_Beanie_Mike.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nhắm Mắt (feat. Spyder & Kwzzzy)",
+      "artist": "Lil Wuyn",
+      "has_synced": true,
+      "path": "select/09_Nhắm_Mắt_(feat._Spyder_&_Kwzzzy)_Lil_Wuyn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spyder",
+      "artist": "Young Jeezy",
+      "has_synced": true,
+      "path": "select/10_Spyder_Young_Jeezy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Trouble (feat. MC Spyder)",
+      "artist": "Wiwek",
+      "has_synced": true,
+      "path": "select/11_Trouble_(feat._MC_Spyder)_Wiwek.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When Love Takes Over (feat. Kelly Rowland) / Trouble (feat. MC Spyder) [Mixed]",
+      "artist": "David Guetta, Gregor Salto & Wiwek",
+      "has_synced": false,
+      "path": "select/12_When_Love_Takes_Over_(feat._Kelly_Rowland)___Trouble_(feat._MC_Spyder)_[Mixed]_David_Guetta,_Gregor_Salto_&_Wiwek.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spyder",
+      "artist": "高瀬統也",
+      "has_synced": false,
+      "path": "select/pl_01_Spyder_高瀬統也.txt"
+    }
+  ]
+}
